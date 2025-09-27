@@ -1,0 +1,15 @@
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\bin\Debug\net8.0\Examen.exe
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\bin\Debug\net8.0\Examen.deps.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\bin\Debug\net8.0\Examen.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\bin\Debug\net8.0\Examen.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.sourcelink.json
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\refint\Examen.dll
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.pdb
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+C:\Users\jlray\OneDrive\Documentos\Upana\Prog 2\Examen\Examen\obj\Debug\net8.0\ref\Examen.dll
